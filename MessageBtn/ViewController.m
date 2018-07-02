@@ -113,13 +113,7 @@
 }
 - (void)login
 {
-    
-    //    self.msgBtn.enabled = NO;
-    //    _count = 60;
-    //    _number = 0;
-    //    [self.msgBtn setTitle:@"60秒" forState:UIControlStateDisabled];
-    //    [NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(timerFired:) userInfo:nil repeats:YES];
-    
+ 
 }
 
 
